@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Keri. 
-- 👀 I’m interested in becoming a front end developer, workng on creative projects and breaking into the Tech field.
-- 🌱 I’m currently learning React and polishing up my JavaScript skills. 
-- 💞️ I’m looking to collaborate on any junior or beginner projets.
-- 📫 How to reach me: salmon_eggs@protonmail.com
+Hi, I’m Keri. 
+I’m becoming a front end developer, workng on creative projects and breaking into the Tech field.
+Currently learning React and polishing up my JavaScript skills. 
+salmon_eggs@protonmail.com
 
-Thanks for reading about me! 
 
 <!---
 Raccoonrobot/Raccoonrobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
